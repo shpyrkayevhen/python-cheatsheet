@@ -1,0 +1,2 @@
+# Here we exclude necessery files when we push our code into GitHub
+config.py
