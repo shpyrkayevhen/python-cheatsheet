@@ -25,3 +25,7 @@ items.clear()          # clear all list
 items.remove('Barbur')
 items.sort(reverse=False, key=lambda x: x.title())
 items.index('Roger')  # 0
+
+
+# LIST COMPRESSIONS
+# [item for item in items]

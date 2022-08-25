@@ -126,3 +126,15 @@ def main_func(program):
 
 
 example = main_func('Python')
+
+# ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# LAMBDA FUNCTION -> An anonymous function, without a name (Often use with Python functions such as: map, filter, reduce)
+
+# lambda arg : expression -> expression always return value
+
+
+def multiple(a, b): return a * b
+
+
+print(multiple(2, 5))
